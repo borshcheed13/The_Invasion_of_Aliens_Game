@@ -3,8 +3,9 @@
 The_Invasion_of_Aliens_Game - это компьютерная мини-игра в стиле космической 2D стрелялки.
 
 Игра содержит 9 уровней. С увеличением уровня увеличивается количество инопланетных захатчиков, которых надо поразить ракетой из космического корабля.
-![Без имени1](https://github.com/borshcheed13/The_Invasion_of_Aliens_Game/assets/158568211/d051d687-de75-44d2-a13c-c52b2b3c6f64)
 ![Без имени](https://github.com/borshcheed13/The_Invasion_of_Aliens_Game/assets/158568211/ee7efbd8-095c-4527-9cce-c986b7c87229)
+![Без имени1](https://github.com/borshcheed13/The_Invasion_of_Aliens_Game/assets/158568211/62dc7063-8688-410d-89f2-98eff358cb09)
+
 
 
 Особенности игры:
