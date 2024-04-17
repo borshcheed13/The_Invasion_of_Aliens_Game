@@ -28,8 +28,11 @@ The_Invasion_of_Aliens_Game - это компьютерная мини-игра 
 5. Применялись встроенные пакеты random, time, json
 
 ## Запуск игры
-Для запуска игры необходимо запустить файл:
-The_Invasion_of_Aliens.py
+Для запуска игры необходимо:
+- скачать папку all_picture
+- скачать файл PlayerRatings.json
+- скачать файл The_Invasion_of_Aliens.py
+- запустить файл The_Invasion_of_Aliens.py
 
 ## Поддержка
 
